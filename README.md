@@ -1,1 +1,1 @@
-# HackerNews
+# TechNews
